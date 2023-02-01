@@ -28,6 +28,11 @@ namespace MemberData.Repositories
         public Member GetMember(int id)
         {
             return memberList.FirstOrDefault(x => x.MemberId == id);
+
+        }
+        public Member GetMember1(int id)
+        {
+            return memberList.FirstOrDefault(x => x.MemberId == id);
         }
     }
 }
