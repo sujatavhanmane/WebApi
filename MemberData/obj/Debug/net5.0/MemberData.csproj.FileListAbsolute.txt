@@ -1,0 +1,12 @@
+C:\Users\SHRI\source\repos\Vitthal\WebApplication6\MemberData\bin\Debug\net5.0\MemberData.deps.json
+C:\Users\SHRI\source\repos\Vitthal\WebApplication6\MemberData\bin\Debug\net5.0\MemberData.dll
+C:\Users\SHRI\source\repos\Vitthal\WebApplication6\MemberData\bin\Debug\net5.0\ref\MemberData.dll
+C:\Users\SHRI\source\repos\Vitthal\WebApplication6\MemberData\bin\Debug\net5.0\MemberData.pdb
+C:\Users\SHRI\source\repos\Vitthal\WebApplication6\MemberData\obj\Debug\net5.0\MemberData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHRI\source\repos\Vitthal\WebApplication6\MemberData\obj\Debug\net5.0\MemberData.AssemblyInfoInputs.cache
+C:\Users\SHRI\source\repos\Vitthal\WebApplication6\MemberData\obj\Debug\net5.0\MemberData.AssemblyInfo.cs
+C:\Users\SHRI\source\repos\Vitthal\WebApplication6\MemberData\obj\Debug\net5.0\MemberData.csproj.CoreCompileInputs.cache
+C:\Users\SHRI\source\repos\Vitthal\WebApplication6\MemberData\obj\Debug\net5.0\MemberData.dll
+C:\Users\SHRI\source\repos\Vitthal\WebApplication6\MemberData\obj\Debug\net5.0\ref\MemberData.dll
+C:\Users\SHRI\source\repos\Vitthal\WebApplication6\MemberData\obj\Debug\net5.0\MemberData.pdb
+C:\Users\SHRI\source\repos\Vitthal\WebApplication6\MemberData\obj\Debug\net5.0\MemberData.csproj.AssemblyReference.cache

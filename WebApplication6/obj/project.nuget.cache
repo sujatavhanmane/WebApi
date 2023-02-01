@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VSBSAMRvGmtNc4g7Ad7c0i8NwLO0v73YJwHY+16SaDLl3W+bCt54DDutuZN3uDvfPO4e2viHHjhYHc9h96cgKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SHRI\\source\\repos\\GitHub\\WebApplication6\\WebApplication6\\WebApplication6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SHRI\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\SHRI\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SHRI\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\SHRI\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\SHRI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\SHRI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
