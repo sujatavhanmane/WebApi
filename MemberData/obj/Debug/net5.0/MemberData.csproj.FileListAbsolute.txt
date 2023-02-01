@@ -21,3 +21,15 @@ C:\Users\SHRI\source\repos\GitHub\WebApplication6\MemberData\bin\Debug\net5.0\Me
 C:\Users\SHRI\source\repos\GitHub\WebApplication6\MemberData\bin\Debug\net5.0\MemberData.dll
 C:\Users\SHRI\source\repos\GitHub\WebApplication6\MemberData\bin\Debug\net5.0\ref\MemberData.dll
 C:\Users\SHRI\source\repos\GitHub\WebApplication6\MemberData\bin\Debug\net5.0\MemberData.pdb
+C:\Users\SHRI\source\repos\GithubSujata\MemberData\bin\Debug\net5.0\MemberData.deps.json
+C:\Users\SHRI\source\repos\GithubSujata\MemberData\bin\Debug\net5.0\MemberData.dll
+C:\Users\SHRI\source\repos\GithubSujata\MemberData\bin\Debug\net5.0\ref\MemberData.dll
+C:\Users\SHRI\source\repos\GithubSujata\MemberData\bin\Debug\net5.0\MemberData.pdb
+C:\Users\SHRI\source\repos\GithubSujata\MemberData\obj\Debug\net5.0\MemberData.csproj.AssemblyReference.cache
+C:\Users\SHRI\source\repos\GithubSujata\MemberData\obj\Debug\net5.0\MemberData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHRI\source\repos\GithubSujata\MemberData\obj\Debug\net5.0\MemberData.AssemblyInfoInputs.cache
+C:\Users\SHRI\source\repos\GithubSujata\MemberData\obj\Debug\net5.0\MemberData.AssemblyInfo.cs
+C:\Users\SHRI\source\repos\GithubSujata\MemberData\obj\Debug\net5.0\MemberData.csproj.CoreCompileInputs.cache
+C:\Users\SHRI\source\repos\GithubSujata\MemberData\obj\Debug\net5.0\MemberData.dll
+C:\Users\SHRI\source\repos\GithubSujata\MemberData\obj\Debug\net5.0\ref\MemberData.dll
+C:\Users\SHRI\source\repos\GithubSujata\MemberData\obj\Debug\net5.0\MemberData.pdb

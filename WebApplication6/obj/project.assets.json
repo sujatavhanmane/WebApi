@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SHRI\\source\\repos\\GitHub\\WebApplication6\\WebApplication6\\WebApplication6.csproj",
+      "projectUniqueName": "C:\\Users\\SHRI\\source\\repos\\GithubSujata\\WebApplication6\\WebApplication6.csproj",
       "projectName": "WebApplication6",
-      "projectPath": "C:\\Users\\SHRI\\source\\repos\\GitHub\\WebApplication6\\WebApplication6\\WebApplication6.csproj",
+      "projectPath": "C:\\Users\\SHRI\\source\\repos\\GithubSujata\\WebApplication6\\WebApplication6.csproj",
       "packagesPath": "C:\\Users\\SHRI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHRI\\source\\repos\\GitHub\\WebApplication6\\WebApplication6\\obj\\",
+      "outputPath": "C:\\Users\\SHRI\\source\\repos\\GithubSujata\\WebApplication6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SHRI\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -235,8 +235,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\SHRI\\source\\repos\\GitHub\\WebApplication6\\MemberData\\MemberData.csproj": {
-              "projectPath": "C:\\Users\\SHRI\\source\\repos\\GitHub\\WebApplication6\\MemberData\\MemberData.csproj"
+            "C:\\Users\\SHRI\\source\\repos\\GithubSujata\\MemberData\\MemberData.csproj": {
+              "projectPath": "C:\\Users\\SHRI\\source\\repos\\GithubSujata\\MemberData\\MemberData.csproj"
             }
           }
         }

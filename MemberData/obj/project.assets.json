@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SHRI\\source\\repos\\GitHub\\WebApplication6\\MemberData\\MemberData.csproj",
+      "projectUniqueName": "C:\\Users\\SHRI\\source\\repos\\GithubSujata\\MemberData\\MemberData.csproj",
       "projectName": "MemberData",
-      "projectPath": "C:\\Users\\SHRI\\source\\repos\\GitHub\\WebApplication6\\MemberData\\MemberData.csproj",
+      "projectPath": "C:\\Users\\SHRI\\source\\repos\\GithubSujata\\MemberData\\MemberData.csproj",
       "packagesPath": "C:\\Users\\SHRI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHRI\\source\\repos\\GitHub\\WebApplication6\\MemberData\\obj\\",
+      "outputPath": "C:\\Users\\SHRI\\source\\repos\\GithubSujata\\MemberData\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SHRI\\AppData\\Roaming\\NuGet\\NuGet.Config",
